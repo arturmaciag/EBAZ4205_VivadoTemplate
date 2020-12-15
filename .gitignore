@@ -1,0 +1,22 @@
+# Cache and temp build folders
+.Xil/*
+ebit_z7010.hw/*
+ebit_z7010.cache/*
+ebit_z7010.sim/*
+ebit_z7010.ip_user_files/*
+ebit_z7010.runs/*
+ebit_z7010.sdk/ebit_z7010_top_wrapper_hw_platform_0
+ebit_z7010.sdk/.metadata/*
+ebit_z7010.sdk/webtalk
+ebit_z7010.sdk/RemoteSystemsTempFiles
+Packages
+
+
+
+# Log files
+*.log
+*.jou
+*.str
+*.o
+*.a
+
